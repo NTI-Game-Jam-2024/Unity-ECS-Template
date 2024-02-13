@@ -15,6 +15,15 @@ Unity ECS Mallen är framtagen för att ge en flygande start åt projekt som anv
 - **Assets**: Innehåller olika sorters tillgångar såsom Animationer, Skript, Ljud, Bilder, med tillhörande metafiler.
 - **ProjectSettings**: Grundläggande inställningsfiler för Unity-projekt, för en enhetlig konfiguration.
 
+## Konfigurera för 3D och andra typer
+
+För närvarande är mallen konfigurerad för 2D-applikationer, men den kan enkelt anpassas för 3D eller andra typer av projekt:
+1. Öppna projektet i Unity.
+2. Navigera till `Redigera > Projektinställningar`.
+3. I `Grafik`-inställningarna, ändra renderingsinställningarna för att passa 3D-krav.
+4. Justera andra inställningar som Fysik, Kvalitet och Lagerinställningar enligt ditt projektbehov.
+
+
 ## Användning
 
 1. Klicka på "Use this template" på kodförrådets sida.
