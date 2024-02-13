@@ -31,7 +31,3 @@ Currently set up for 2D applications, this template can be easily adapted for 3D
 ## License
 
 This project is under the Unlicense, allowing unrestricted use. Note: Contributions and forks are not enabled.
-
-
-
-Feel free to adjust this template as necessary to better fit the specifics of your project.
