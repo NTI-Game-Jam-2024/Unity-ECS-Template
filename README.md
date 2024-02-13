@@ -6,13 +6,21 @@ Description in English.
 
 ## About
 
-This Unity ECS Template is designed to kickstart projects using the Entity-Component-System architecture in Unity. It provides a structured and comprehensive setup, perfect for creating high-performance, data-oriented gameplay experiences.
+This Unity ECS Template is pre-configured for 2D applications, serving as a starting point for projects using the Entity-Component-System architecture in Unity. It offers a structured framework suitable for high-performance, data-oriented gameplay experiences in 2D environments.
 
 ## Repository Structure
 
-- **.vscode**: Configuration files for Visual Studio Code.
-- **Assets**: Contains various asset categories including Animations, Scripts, Sounds, Images, and more, each with corresponding meta files.
-- **ProjectSettings**: Essential Unity project settings files for consistent project configuration.
+- **.vscode**: Contains settings for Visual Studio Code.
+- **Assets**: Various asset categories (Animations, Scripts, Sounds, etc.) with meta files.
+- **ProjectSettings**: Essential Unity project settings files.
+
+## Configuring for 3D and Other Types
+
+Currently set up for 2D applications, this template can be easily adapted for 3D or other project types:
+1. Open the project in Unity.
+2. Navigate to `Edit > Project Settings`.
+3. In the `Graphics` settings, change the rendering settings to suit 3D requirements.
+4. Adjust other settings like Physics, Quality, and Layer settings as per your project's need.
 
 ## How to Use
 
@@ -20,6 +28,10 @@ This Unity ECS Template is designed to kickstart projects using the Entity-Compo
 2. Create a new repository from this template.
 3. Clone and open in Unity to start your project.
 
-## Note
+## License
 
-This project is under the Unlicense, allowing free use. Contributions and forks are not enabled.
+This project is under the Unlicense, allowing unrestricted use. Note: Contributions and forks are not enabled.
+
+
+
+Feel free to adjust this template as necessary to better fit the specifics of your project.
