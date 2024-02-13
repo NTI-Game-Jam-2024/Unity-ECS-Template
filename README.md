@@ -6,7 +6,7 @@ Description in English.
 
 ## About
 
-This Unity ECS Template is pre-configured for 2D applications, serving as a starting point for projects using the Entity-Component-System architecture in Unity. It offers a structured framework suitable for high-performance, data-oriented gameplay experiences in 2D environments.
+This Unity ECS Template is designed to kickstart projects using the Entity-Component-System architecture in Unity. It provides a structured and comprehensive setup, perfect for creating high-performance, data-oriented gameplay experiences.
 
 ## Repository Structure
 
