@@ -37,6 +37,6 @@ För att fullt ut dra nytta av möjligheterna med denna Unity ECS-mall är det k
 - [ECS-Exempel](https://github.com/Unity-Technologies/EntityComponentSystemSamples): En samling exempel som demonstrerar olika mönster av ECS inom Unity.
 - [Unity Entities-Paketet](https://docs.unity3d.com/Packages/com.unity.entities@0.17/manual/index.html): Detaljerad dokumentation om Unity Entities-paketet, absolut nödvändigt för effektiv användning av ECS.
 
-## Observera
+## Licens
 
 Projektet är licensierat under "The Unlicense", vilket innebär att det är fritt att använda. Möjligheten att bidra eller skapa forks är inte tillgänglig.
