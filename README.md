@@ -36,8 +36,6 @@ To fully leverage the capabilities of this Unity ECS Template, it's crucial to g
 - [ECS Samples](https://github.com/Unity-Technologies/EntityComponentSystemSamples): A suite of examples that showcase various ECS patterns within Unity.
 - [Unity Entities Package](https://docs.unity3d.com/Packages/com.unity.entities@0.17/manual/index.html): In-depth documentation on the Unity Entities package, indispensable for ECS deployment.
 
-These resources offer a succinct yet thorough exploration of ECS in Unity, equipping users with the knowledge to effectively implement the entities package in their projects.
-
 ## License
 
 This project is under the Unlicense, allowing unrestricted use. Note: Contributions and forks are not enabled.
