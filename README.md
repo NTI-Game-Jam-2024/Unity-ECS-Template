@@ -28,6 +28,16 @@ Currently set up for 2D applications, this template can be easily adapted for 3D
 2. Create a new repository from this template.
 3. Clone and open in Unity to start your project.
 
+## Documentation
+
+To fully leverage the capabilities of this Unity ECS Template, it's crucial to grasp the fundamentals of Unity's Entity-Component-System (ECS) architecture. Below are targeted resources dedicated to ECS and the Unity entities package:
+
+- [Unity ECS Documentation](https://docs.unity3d.com/Manual/EntityComponentSystem.html): This comprehensive guide delves into the intricacies of Unity's ECS architecture, elucidating its primary concepts.
+- [ECS Samples](https://github.com/Unity-Technologies/EntityComponentSystemSamples): A suite of examples that showcase various ECS patterns within Unity.
+- [Unity Entities Package](https://docs.unity3d.com/Packages/com.unity.entities@0.17/manual/index.html): In-depth documentation on the Unity Entities package, indispensable for ECS deployment.
+
+These resources offer a succinct yet thorough exploration of ECS in Unity, equipping users with the knowledge to effectively implement the entities package in their projects.
+
 ## License
 
 This project is under the Unlicense, allowing unrestricted use. Note: Contributions and forks are not enabled.
