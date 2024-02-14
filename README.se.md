@@ -1,33 +1,33 @@
-# Unity ECS Mall
+# Unity-ECS-Template
 
 Beskrivning på svenska.
 
 [Läs detta på engelska](./README.md)
 
 
-## Om
+## Om mallen
 
 Unity ECS Mallen är framtagen för att ge en flygande start åt projekt som använder sig av Entity-Component-System arkitekturen i Unity. Den erbjuder en välordnad och heltäckande grund, idealisk för att skapa spelupplevelser som är både prestandaorienterade och datadrivna.
 
-## Kodförrådets Struktur
+## Struktur för kodförrådet
 
-- **.vscode**: Konfigurationsfiler för Visual Studio Code.
-- **Assets**: Innehåller olika sorters tillgångar såsom Animationer, Skript, Ljud, Bilder, med tillhörande metafiler.
-- **ProjectSettings**: Grundläggande inställningsfiler för Unity-projekt, för en enhetlig konfiguration.
+- **.vscode**: I denna mapp finns konfigurationer för Visual Studio Code för att garantera en konsekvent kodningsmiljö.
+- **Assets**: Uppdelade i olika kategorier som `Animations`, `Scripts`, `Sounds` med mera. Denna mapp innehåller tillgångar och deras motsvarande metafiler, vilket underlättar hanteringen.
+- **ProjectSettings**: Här finner du viktiga inställningsfiler för Unity-projektet som styr projektets övergripande beteende.
 
-## Konfigurera för 3D och andra typer
+## Konfigurering för 3D och andra typer av projekt
 
-För närvarande är mallen konfigurerad för 2D-applikationer, men den kan enkelt anpassas för 3D eller andra typer av projekt:
-1. Öppna projektet i Unity.
-2. Navigera till `Redigera > Projektinställningar`.
-3. I `Grafik`-inställningarna, ändra renderingsinställningarna för att passa 3D-krav.
-4. Justera andra inställningar som Fysik, Kvalitet och Lagerinställningar enligt ditt projektbehov.
+Även om den initialt är inställd för 2D-applikationer, kan mallen enkelt konfigureras om för 3D eller andra projekttyper genom att följa dessa steg:
+1. Starta projektet i Unity.
+2. Navigera till `Edit > Project Settings`.
+3. Ändra `Graphics`-inställningarna för att passa 3D-kraven.
+4. Anpassa ytterligare inställningar som `Physics`, `Quality` och `Layer` efter projektets specifika behov.
 
-## Användning
+## Användningsinstruktioner
 
-1. Klicka på "Use this template" på kodförrådets sida.
-2. Skapa ett nytt kodförråd från denna mall.
-3. Klona och öppna i Unity för att påbörja ditt projekt.
+1. På kodförrådets sida, klicka på "Use this template"-knappen.
+2. Skapa ett nytt kodförråd med hjälp av denna mall.
+3. Klona det nya kodförrådet och öppna det i Unity för att starta ditt projekt.
 
 ## Dokumentation
 
@@ -39,4 +39,4 @@ För att fullt ut dra nytta av möjligheterna med denna Unity ECS-mall är det k
 
 ## Licens
 
-Projektet är licensierat under "The Unlicense", vilket innebär att det är fritt att använda. Möjligheten att bidra eller skapa forks är inte tillgänglig.
+Detta projekt distribueras under Unlicense, vilket tillåter fri användning. Observera att bidrag och forkningar för närvarande inte stöds för denna mall.
